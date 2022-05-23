@@ -31,4 +31,60 @@
     <string name="Button">Click Here for Repository Link!</string>
     <string name="TextView">Welcome to Children Learning App</string>
     <string name="TextView1">Click below buttons for reference Images</string>
+
+    <string name="ImageView">TODO</string>
+    <string name="ImageView2">Todo</string>
+    <string name="ImageView3">Todo</string>
+    <string name="ImageView4">Todo</string>
+    <string name="ImageView5">Todo</string>
+    <string name="ImageView6">Todo</string>
+    <string name="ImageView7">Todo</string>
+    <string name="ImageView8">Todo</string>
+    <string name="ImageView9">Todo</string>
+    <string name="ImageView10">Todo</string>
+    <string name="ImageView11">Todo</string>
+    <string name="ImageView12">Todo</string>
+    <string name="ImageView13">Todo</string>
+    <string name="ImageView14">Todo</string>
+    <string name="ImageView15">Todo</string>
+    <string name="ImageView16">Todo</string>
+    <string name="ImageView17">Todo</string>
+    <string name="ImageView18">Todo</string>
+    <string name="ImageView19">Todo</string>
+    <string name="ImageView20">Todo</string>
+    <string name="ImageView21">Todo</string>
+    <string name="ImageView22">Todo</string>
+    <string name="ImageView23">Todo</string>
+    <string name="ImageView24">Todo</string>
+    <string name="ImageView25">Todo</string>
+    <string name="ImageView26">Todo</string>
+
+    <string name="TextView2">Apple</string>
+    <string name="TextView3">Ball</string>
+    <string name="TextView4">Cat</string>
+    <string name="TextView5">Dog</string>
+    <string name="TextView6">Egg</string>
+    <string name="TextView7">Fish</string>
+    <string name="TextView8">Goat</string>
+    <string name="TextView9">Hat</string>
+    <string name="TextView10">Ice Cream</string>
+    <string name="TextView11">Jar</string>
+    <string name="TextView12">Key</string>
+    <string name="TextView13">Lamp</string>
+    <string name="TextView14">Map</string>
+    <string name="TextView15">Needle</string>
+    <string name="TextView16">Owl</string>
+    <string name="TextView17">Piano</string>
+    <string name="TextView18">Quilt</string>
+    <string name="TextView19">Rat</string>
+    <string name="TextView20">Sun</string>
+    <string name="TextView21">Tap</string>
+    <string name="TextView22">Umbrella</string>
+    <string name="TextView23">Van</string>
+    <string name="TextView24">Watch</string>
+    <string name="TextView25">X-Ray</string>
+    <string name="TextView26">Yellow</string>
+    <string name="TextView27">Zebra</string>
+
+
 </resources>

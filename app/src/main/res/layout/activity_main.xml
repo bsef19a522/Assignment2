@@ -64,41 +64,48 @@
             android:layout_weight="1">
 
             <Button
+                android:id="@+id/btnA"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button1"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnB"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button2"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnC"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button3"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnD"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button4"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -107,41 +114,48 @@
             android:layout_weight="1">
 
             <Button
+                android:id="@+id/btnE"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button5"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnF"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button6"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnG"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button7"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnH"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button8"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -150,41 +164,48 @@
             android:layout_weight="1">
 
             <Button
+                android:id="@+id/btnI"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button9"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnJ"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button10"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnK"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button11"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnL"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button12"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -193,41 +214,48 @@
             android:layout_weight="1">
 
             <Button
+                android:id="@+id/btnM"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button13"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnN"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button14"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnO"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button15"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnP"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button16"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -236,41 +264,48 @@
             android:layout_weight="1">
 
             <Button
+                android:id="@+id/btnQ"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button17"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnR"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button18"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnS"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button19"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnT"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button20"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -279,41 +314,48 @@
             android:layout_weight="1">
 
             <Button
+                android:id="@+id/btnU"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button21"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnV"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button22"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnW"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button23"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnX"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button24"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -323,23 +365,26 @@
 
 
             <Button
+                android:id="@+id/btnY"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textSize="20sp"
-                android:textColor="@color/white"
                 android:text="@string/Button25"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
             <Button
+                android:id="@+id/btnZ"
+                style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@null"
-                android:textColor="@color/white"
-                android:textSize="20sp"
                 android:text="@string/Button26"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:textColor="@color/white"
+                android:textSize="20sp" />
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>
