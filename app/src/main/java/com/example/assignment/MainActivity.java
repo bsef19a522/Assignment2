@@ -182,6 +182,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Intent int25 = new Intent(MainActivity.this, MainActivity26.class);
                 startActivity(int25);
                 break;
+            case R.id.btnZ:
+                Intent int26 = new Intent(MainActivity.this, MainActivity27.class);
+                startActivity(int26);
+                break;
             default:
                 throw new IllegalStateException("Unexpected value: " + v.getId());
         }

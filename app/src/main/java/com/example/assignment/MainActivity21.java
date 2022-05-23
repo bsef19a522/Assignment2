@@ -16,7 +16,7 @@ public class MainActivity21 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main21);
 
-        tx = findViewById(R.id.textView19);
-        im = findViewById(R.id.imageView18);
+        tx = findViewById(R.id.textView21);
+        im = findViewById(R.id.imageView20);
     }
 }
